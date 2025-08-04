@@ -1,0 +1,43 @@
+{
+  "name": "custom-portfolio",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build:clean": "rm -rf out .next && GITHUB_PAGES=true next build",
+    "deploy": "npm run build:clean && npx gh-pages -d out",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-spring/three": "9.7.5",
+    "@react-three/drei": "10.0.7",
+    "@react-three/fiber": "9.1.2",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^12.7.4",
+    "lucide-react": "^0.503.0",
+    "next": "latest",
+    "next-themes": "^0.4.6",
+    "popmotion": "^11.0.5",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "^0.176.0",
+    "react-icon-cloud": "^4.1.7",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-transition-group": "^4.4.5",
+    "react-tsparticles": "^2.12.2",
+    "react-vertical-timeline-component": "^3.5.3",
+    "simple-icons": "^14.12.2",
+    "svg-3d-tag-cloud": "^0.0.20",
+    "tsparticles": "^3.8.1",
+    "tsparticles-slim": "^2.12.0",
+    "typewriter-effect": "^2.21.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "gh-pages": "^6.3.0",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  },
+  "homepage": "https://xiconovo.github.io/my-portfolio"
+}
