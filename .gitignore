@@ -1,2 +1,6 @@
-.next/
-node_modules/
+# .gitignore
+node_modules
+.next
+out
+.env
+.DS_Store
