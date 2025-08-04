@@ -22,7 +22,7 @@ const projects = [
     description:
       "CrowdFlow is a platform for analyzing foot traffic using AI-powered video feeds. My role focused on the frontend, where I developed interactive dashboards and map-based visualizations using HTML and Tailwind CSS. I also conducted security vulnerability assessments and led scalability testing using Postman and k6 to ensure system reliability under load.",
     link: "https://crowdflow.pt/",
-    image: "/images/crowdflow.png",
+    image: "../images/crowdflow.png",
   },
   {
     title: "Ticket Management Platform",
@@ -40,7 +40,7 @@ const projects = [
     description:
       "FastTicket is a fullstack ticket management platform for handling internal requests across departments. I built both the backend and frontend using JavaScript, with features like authentication, role-based access, ticket filtering, and lazy loading.",
     link: "https://github.com/xiconovo/FastTicket/tree/main",
-    image: "/images/fastTicketLogo.png",
+    image: "../images/fastTicketLogo.png",
   },
 ];
 

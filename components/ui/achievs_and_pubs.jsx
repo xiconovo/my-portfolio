@@ -38,7 +38,7 @@ const AchievementsAndPublications = () => {
   const achievements = [
     {
       content: {
-        imageSrc: "/images/startuppoint.png",
+        imageSrc: "../images/startuppoint.png",
         imageAlt: "Startup Point logo",
         height: 224,
         width: 224,
@@ -50,7 +50,7 @@ const AchievementsAndPublications = () => {
     },
     {
       content: {
-        imageSrc: "/images/mnje.png",
+        imageSrc: "../images/mnje.png",
         imageAlt: "National Contest for Young Entrepreneurs logo",
         height: 1336,
         width: 1134,
