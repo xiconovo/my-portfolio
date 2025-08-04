@@ -17,17 +17,17 @@ export default function SkillsSphere() {
       "logos/styled-components.svg",
     ],
     "Backend & Databases": [
-      "/logos/nodejs.svg",
-      "/logos/express.svg",
-      "/logos/java.svg",
-      "/logos/python.svg",
-      "/logos/sequelize.svg",
-      "/logos/mysql.svg",
+      "logos/nodejs.svg",
+      "logos/express.svg",
+      "logos/java.svg",
+      "logos/python.svg",
+      "logos/sequelize.svg",
+      "logos/mysql.svg",
     ],
     "Testing & Performance": [
-      "/logos/postman.svg",
-      "/logos/k6.svg",
-      "/logos/jmeter.svg",
+      "logos/postman.svg",
+      "logos/k6.svg",
+      "logos/jmeter.svg",
     ],
   };
 
