@@ -32,7 +32,7 @@ export default function Introduction() {
           </div>
           <div className="flex gap-4 mt-4">
             <a
-              href="/resume.pdf"
+              href="resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center px-6 py-2.5 bg-[#eff4ff] backdrop-blur-lg text-[#41567e] rounded-lg shadow-md transform hover:scale-105 transition-all duration-300 hover:bg-gradient-to-l hover:from-blue-200 hover:to-blue-200"
